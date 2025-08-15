@@ -1,26 +1,43 @@
-# myntra-clone-AKHIL
+# Myntra Clone
 
-🛍️ Myntra Clone
-A frontend clone of the popular fashion e-commerce website Myntra, built using HTML, CSS, and JavaScript. This project replicates the UI and functionality of Myntra's homepage, category pages, and product sections with a modern and responsive design.
+A fully responsive **E-commerce website clone** of Myntra, designed to replicate the modern UI and functionality of a popular fashion shopping platform. This project showcases front-end development skills, UI/UX design, and responsive layouts for a seamless shopping experience across devices.
 
-🔥 Features
-✅ Responsive homepage layout
+## 🚀 Features
 
-✅ Navbar with logo, search bar, login, wishlist & cart
+- **Modern UI Design** inspired by Myntra
+- **Fully Responsive Layout** for mobile, tablet, and desktop
+- **Category Pages**: Men, Women, Beauty, Studio, Gen-Z
+- **Trending Products Section**
+- **Product Cards** with images, names, prices, and discounts
+- **Navigation Bar & Footer** similar to real Myntra
+- **Search Bar** for product look-up
+- Built with **HTML, CSS (Tailwind & Simple CSS)**, and **JavaScript**
 
-✅ Product category pages (Men, Women, Kids, Beauty, Studio, GenZ)
+## 📂 Pages Included
+- `index.html` – Home page with categories & trending products
+- `men.html` – Men's fashion products
+- `women.html` – Women's fashion products
+- `beauty.html` – Beauty & personal care products
+- `studio.html` – Studio feature showcase
+- `genz.html` – Gen-Z fashion section
 
-✅ Product cards with hover effects
+## 🛠️ Technologies Used
+- **HTML5** – Structure
+- **CSS3 & Tailwind CSS** – Styling & responsive design
+- **JavaScript (Vanilla)** – Interactivity
+- **Google Fonts** – Custom typography
+- **Font Awesome** – Icons
 
-✅ Modern UI with Tailwind CSS or simple CSS
+## 📸 Screenshots
 
-✅ Search bar design (static)
+### Home Page
+![Home Page Screenshot](https://akhileshbhagat76.github.io/myntra-clone-AKHIL/index.html)
 
-✅ Footer with links & copyright
+### Product Page
+![mens Page](https://akhileshbhagat76.github.io/myntra-clone-AKHIL/men.html)
 
-🧑‍💻 Tech Stack
-HTML5 – Structure
+## 🔗 Live Demo
+[View Live Project](https://akhileshbhagat76.github.io/myntra-clone-AKHIL/)
 
-CSS3 / Tailwind CSS – Styling
 
-JavaScript (Vanilla) – Basic interactivity (login toggle, hover effects, etc.)
+   
