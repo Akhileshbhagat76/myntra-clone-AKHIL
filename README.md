@@ -28,15 +28,15 @@ A fully responsive **E-commerce website clone** of Myntra, designed to replicate
 - **Google Fonts** – Custom typography
 - **Font Awesome** – Icons
 
-## 📸 Screenshots
 
-### Home Page
-![Home Page Screenshot](https://akhileshbhagat76.github.io/myntra-clone-AKHIL/index.html)
 
-### Product Page
+Home Page
+![Home Page](https://akhileshbhagat76.github.io/myntra-clone-AKHIL/index.html)
+
+Product Page
 ![mens Page](https://akhileshbhagat76.github.io/myntra-clone-AKHIL/men.html)
 
-## 🔗 Live Demo
+🔗 Live Demo
 [View Live Project](https://akhileshbhagat76.github.io/myntra-clone-AKHIL/)
 
 
