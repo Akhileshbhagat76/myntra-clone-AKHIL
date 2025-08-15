@@ -31,12 +31,12 @@ A fully responsive **E-commerce website clone** of Myntra, designed to replicate
 
 
 Home Page
-![Home Page](https://akhileshbhagat76.github.io/myntra-clone-AKHIL/index.html)
+(https://akhileshbhagat76.github.io/myntra-clone-AKHIL/index.html)
 <img width="1907" height="967" alt="home page" src="https://github.com/user-attachments/assets/85964244-2f6b-4d79-9538-6fb072399a32" />
 
 
 Product Page
-![mens Page](https://akhileshbhagat76.github.io/myntra-clone-AKHIL/men.html)
+(https://akhileshbhagat76.github.io/myntra-clone-AKHIL/men.html)
 <img width="1918" height="882" alt="image" src="https://github.com/user-attachments/assets/a9406d45-24db-4ee3-a8e1-9e25ff8352c9" />
 
 
